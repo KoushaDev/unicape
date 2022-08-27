@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+.hero{
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3));
+    position: relative;
+    padding: 0 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .logo{
+    width: 80px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+}
+.content{
+    text-align: center;
+}
+.content h1{
+    font-size: 160px;
+    color: #fff;
+    font-weight: 600;
+    position: relative;
+    bottom: -30px;  
+}
+.content a{
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    font-size: 24px;
+    border: 2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 20px; 
+    position: relative;
+    bottom: -30px;  
+    }
+
+.back-video{
+    position: fixed;
+    height:120%;
+    width: 300%;
+    z-index: -1;
+}
+
+body{
+    background: #fcfcfc;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #111;
+    height: auto;
+    width: 100vw;
+    font-family: "Open Sans";
+    color: #fff;
+}
+.footer-bottom{
+    background: #000;
+    width: 100wh;
+    padding: 40px 0;
+    text-align: center;
+}
+.footer-bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+.footer-bottom span{
+    text-transform: uppercase;
+    opacity: .4;
+    font-weight: 200;
+}
+
+@media (min-aspect-ratio: 16/9){
+    .back-video{
+        width: 100%;
+        height: auto;
+    }
+}
+@media (max-aspect-ratio: 16/9){
+    .back-video{
+        width: auto;
+        height: 100%;
+    }
+}
