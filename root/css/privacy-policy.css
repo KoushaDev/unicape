@@ -13,6 +13,8 @@ html, body {
     color: white;
 }
 .pp2{
+    position: relative;
+    right: -300px;
     font-style: bold;
     color: blueviolet;
 }
