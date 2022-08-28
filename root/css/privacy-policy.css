@@ -6,11 +6,9 @@
 }
 html, body { 
     overflow-x:hidden;
-    background-color: black;
 }
 .pp{
     font-style: bold;
-    color: white;
 }
 .pp2{
     position: relative;
