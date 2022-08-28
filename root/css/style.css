@@ -77,9 +77,7 @@ body{
     background: #fcfcfc;
 }
 .wrapper3{
-    position: absolute;
-    bottom: 30px;
-    left: 30px;
+    position: relative;
     max-width: 365px;
     background: #fff;
     padding: 25px 25px 30px 25px;
