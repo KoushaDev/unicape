@@ -78,6 +78,8 @@ body{
 }
 .wrapper3{
     position: relative;
+    top: -250px;
+    right: -70px;
     max-width: 365px;
     background: #fff;
     padding: 25px 25px 30px 25px;
