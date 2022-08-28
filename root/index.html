@@ -25,33 +25,6 @@
                 <h2><a href="/pages/explore.html">Explore The Galaxy</a></h2>
             </div>
             </div>>
-            <div class="wrapper3">
-                <img src="#" alt="">
-                <div class="content3">
-                  <header>Cookies Consent</header>
-                  <p>This website use cookies to ensure you get the best experience on our website.</p>
-                  <div class="buttons3">
-                    <button class="item3">I understand</button>
-                    <a href="#" class="item3">Learn more</a>
-                  </div>
-                </div>
-              </div>
-              <script>
-                const cookieBox = document.querySelector(".wrapper"),
-                acceptBtn = cookieBox.querySelector("button");
-                acceptBtn.onclick = ()=>{
-                  //setting cookie for 1 month, after one month it'll be expired automatically
-                  document.cookie = "CookieBy=CodingNepal; max-age="+60*60*24*30;
-                  if(document.cookie){ //if cookie is set
-                    cookieBox.classList.add("hide"); //hide cookie box
-                  }else{ //if cookie not set then alert an error
-                    alert("Cookie can't be set! Please unblock this site from the cookie setting of your browser.");
-                  }
-                }
-                let checkCookie = document.cookie.indexOf("CookieBy=CodingNepal"); //checking our cookie
-                //if cookie is set then hide the cookie box else show it
-                checkCookie != -1 ? cookieBox.classList.add("hide") : cookieBox.classList.remove("hide");
-              </script>
             <footer>
                 <div class="footer-bottom">
                     <p>copyright &copy;2022 UniCape. designed by <span>Kousha</span></p>
