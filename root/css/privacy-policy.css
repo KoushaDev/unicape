@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+html, body { 
+    overflow-x:hidden;
+    background-color: black;
+}
+.pp{
+    font-style: bold;
+}
+.pp2{
+    font-style: bold;
+    color: blueviolet;
+}
