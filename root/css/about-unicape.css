@@ -172,7 +172,6 @@ border-radius: 50px;
   .row1{
     display: flex;
     flex-wrap: wrap;
-    border-spacing: 5px;
   }
   ul{
     list-style: none;
