@@ -50,8 +50,8 @@ nav ul li a{
     font-size: 160px;
     color: #fff;
     font-weight: 600;
-    position: absolute;
-    bottom: -10px;  
+    position: relative;
+    bottom: -30px;  
 }
 .content a{
     text-decoration: none;
