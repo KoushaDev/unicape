@@ -52,7 +52,7 @@ nav ul li a{
 } 
 .back-video{
     position: fixed;
-    height: 100%;
+    height: 100vh;
     width: fixed;
     z-index: -1;
 }
