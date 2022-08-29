@@ -107,7 +107,8 @@ border-radius: 50px;
   }
   .about2{
     padding-right: 30px;
-    margin-left: 30px;
+    text-align: left;
+
   }
   .about2 h2{
     text-align: justify;
