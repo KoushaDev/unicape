@@ -106,9 +106,9 @@ border-radius: 50px;
     flex: 50%;
   }
   .about2{
-    padding-right: 10px;
     text-align: left;
-    margin-left: 10px;
+    padding-right: 60px;
+    margin-left: 60px;
   }
   .about2 h2{
     text-align: justify;
