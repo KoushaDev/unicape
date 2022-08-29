@@ -59,7 +59,12 @@ nav ul li a{
     z-index: -1;
 }
 
-
+.footer-bottom{
+    background: #000;
+    width: 100wh;
+    padding: 40px 0;
+    text-align: center;
+}
   .footer1{
     position: relative;
     top: -25px;
