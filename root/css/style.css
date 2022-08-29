@@ -51,9 +51,7 @@ nav ul li a{
     color: #fff;
     font-weight: 600;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    bottom: -10px;
 }
 .content a{
     text-decoration: none;
