@@ -58,13 +58,13 @@ nav ul li a{
     text-decoration: none;
     display: inline-block;
     color: #fff;
-    font-size: 20px;
+    font-size: 24px;
     border: 2px solid #fff;
     padding: 14px 70px;
     border-radius: 50px;
     margin-top: 20px; 
     position: relative;
-    bottom: -57px;
+    bottom: -100px;
     top: -20px;  
     }
 
