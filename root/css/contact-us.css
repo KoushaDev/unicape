@@ -12,14 +12,13 @@ body{
   width: 100%;
   height: 100%;
   padding-bottom: -300%;
-  transform: translate3d(0, 0, 0);
 }
 
 .hero{
     width: 100%;
     height: 100vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3));
-    margin-bottom: -60vh;
+    margin-bottom: -75vh;
     position: relative;
     padding: 0 5%;
     display: flex;
