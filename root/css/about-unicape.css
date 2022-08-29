@@ -198,10 +198,10 @@ border-radius: 50px;
     background-color: #fff;
     height: 2px;
     box-sizing: border-box;
-    width: 50px;
+    width: 60px;
   }
   .footer-col1 ul li:not(:last-child){
-    margin-bottom: 10px;
+    margin-bottom: 17px;
   }
   .footer-col1 ul li a{
     font-size: 16px;
