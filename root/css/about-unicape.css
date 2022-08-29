@@ -18,7 +18,7 @@ body{
 .hero{
     width: 100%;
     height: 100vh;
-    margin-bottom: -79vh;
+    margin-bottom: -75vh;
     position: relative;
     padding: 0 5%;
     display: flex;
