@@ -59,12 +59,6 @@ nav ul li a{
     z-index: -1;
 }
 
-.top-bar{
-    background: rgb(255, 255, 255);
-    width: 100wh;
-    padding: 20px 0;
-    text-align: center;
-}
   .footer1{
     position: relative;
     top: -25px;
