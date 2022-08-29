@@ -59,8 +59,8 @@ nav ul li a{
     z-index: -1;
 }
 
-.footer-bottom{
-    background: #000;
+.top-bar{
+    background: rgb(117, 117, 117);
     width: 100wh;
     padding: 20px 0;
     text-align: center;
