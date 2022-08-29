@@ -54,7 +54,7 @@ nav ul li a{
     position: fixed;
     height: fit-content;
     width: fixed;
-    margin-bottom: 100%;
+    margin-bottom: 100vh;
     z-index: -1;
 }
 
