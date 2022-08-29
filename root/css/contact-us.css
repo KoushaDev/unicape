@@ -191,4 +191,9 @@ nav ul li a{
         height: auto;
     }
 }
-
+@media (max-aspect-ratio: 16/9){
+  .back-video{
+      width: auto;
+      height: 100%;
+  }
+}
