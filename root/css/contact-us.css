@@ -56,7 +56,6 @@ nav ul li a{
     position: fixed;
     height: 120%;
     width: 300%;
-    margin-top: 100%;
     z-index: -1;
 }
 
