@@ -90,9 +90,9 @@ footer{
     color: #fff;
 }
 .footer-bottom{
-    background: #000;
+    background: rgba(0, 0, 0, 0.164);
     width: 100wh;
-    padding: 20px 0;
+    padding: 40px 0;
     text-align: center;
 }
 .footer-bottom p{
