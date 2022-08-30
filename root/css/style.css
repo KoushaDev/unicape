@@ -86,10 +86,12 @@ footer{
     background: #111;
     height: auto;
     width: 100vw;
+    opacity: .7;
     font-family: "Open Sans";
     color: #fff;
 }
 .footer-bottom{
+    background: #000;
     width: 100wh;
     padding: 40px 0;
     text-align: center;
