@@ -55,10 +55,8 @@ nav ul li a{
 }
 
 .img3{
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  padding: 0 20px;
+  position: relative;
+  top: -100px;
 }
 
   .footer1{
