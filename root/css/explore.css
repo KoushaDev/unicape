@@ -54,6 +54,13 @@ nav ul li a{
     font-size: 17px;
 }
 
+.lofi img{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  margin-top: 100vh;
+}
+
   .footer1{
     margin-top: auto;
   }
