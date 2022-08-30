@@ -56,9 +56,9 @@ nav ul li a{
 
 .img3{
   position: absolute;
-  height: 130%;
+  height: 100%;
   width: 100%;
-  margin-top: 100%;
+  padding: 0 20px;
 }
 
   .footer1{
