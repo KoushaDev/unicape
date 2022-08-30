@@ -47,7 +47,7 @@ nav ul li a{
     text-align: center;
 }
 .content h1{
-    font-size: 160px;
+    font-size: 120px;
     color: #fff;
     font-weight: 600;
     position: relative;
@@ -64,8 +64,8 @@ nav ul li a{
     border-radius: 50px;
     margin-top: 20px; 
     position: relative;
-    bottom: -30px;
-    top: -20px;  
+    bottom: -37px;
+    top: 30px;  
     }
 
 .back-video{
