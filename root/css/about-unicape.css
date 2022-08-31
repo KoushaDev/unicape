@@ -90,7 +90,7 @@ border-radius: 50px;
   .border2{
     width: 100px;
     height: 3px;
-    background: #7f00ff;
+    background: #0099ff;
     margin: 40px auto;
   }
   .textcol1{
@@ -119,7 +119,7 @@ border-radius: 50px;
     top: -20px;
   }
   .about2 span{
-    color: #7f00ff;
+    color: #0099ff;
   }
   
   .skills2{
@@ -139,7 +139,7 @@ border-radius: 50px;
   }
   .progress-bar2{
     height: 12px;
-    background: #7f00ff;
+    background: #0099ff;
     border-radius: 12px;
   }
   .p1{
